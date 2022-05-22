@@ -1,0 +1,13 @@
+.main-acc {
+    justify-content: center;
+    margin: 5%;
+    width:90%
+}
+.main-img1{
+    display:inline-block;
+    width:80%;
+    max-width:300px;
+    max-height:500px;
+    height:auto;
+    border:15px solid #888846;
+  }
