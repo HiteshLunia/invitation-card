@@ -5,6 +5,10 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import FamilyImage from "./images/IMG-20210708-WA0053.jpg";
+import FirstImage from "./images/IMG_20220525_223912812_HDR_DOC.jpg";
+import WeddingImage from "./images/IMG_20220525_224924181_HDR_DOC.jpg";
+import ReceptionImage from "./images/IMG_20220525_224806477_HDR_DOC.jpg";
+import HiteshImage from "./images/IMG_20220520_225730316_DOC.jpg"
 import "./SimpleAccordian.css";
 import ImageGallery from "./imageGallery";
 
@@ -26,9 +30,9 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220525_223912812_HDR_DOC.jpg"
-                  alt="FamilyImage"
-                ></img>
+                  src={FirstImage}
+                  alt="FirstImage"
+                ></img>   
               </div>
             </div>
           </Typography>
@@ -49,12 +53,12 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220525_224924181_HDR_DOC.jpg"
-                  alt="FamilyImage"
+                  src={WeddingImage}
+                  alt="WeddingImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220525_224806477_HDR_DOC.jpg"
+                  src={ReceptionImage}
                   alt="FamilyImage"
                 ></img>
               </div>
@@ -92,8 +96,8 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220520_225730316_DOC.jpg"
-                  alt="FamilyImage"
+                  src={HiteshImage}
+                  alt="HiteshImage"
                 ></img>
                 <img
                   class="main-img1"
