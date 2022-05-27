@@ -5,8 +5,8 @@ class ImageCard extends Component {
     render() { 
         return (
             <section class="layout" id="home">
-                <div class="container home-img">
-                <img class="main-img" src='\images\IMG-20210708-WA0053.jpg' alt="bride-groom.jpg" />
+                <div class="container content-box">
+                    
                 </div>
             </section>
         );

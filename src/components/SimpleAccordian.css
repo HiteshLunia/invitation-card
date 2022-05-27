@@ -4,10 +4,13 @@
     width:90%
 }
 .main-img1{
-    display:inline-block;
-    width:80%;
+    justify-content: center;
+    width:200px;
+    height: 100px;
+    padding: 3px;
+    margin: 3px;
     max-width:300px;
     max-height:500px;
     height:auto;
-    border:15px solid #888846;
+    border:3px solid #2f76d1;
   }

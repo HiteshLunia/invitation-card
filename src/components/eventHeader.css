@@ -1,0 +1,29 @@
+.event-box {
+    font-family: 'Roboto';
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.event-details {
+    padding: 0.5rem;
+    border: 3px solid rgb(210, 180, 11);
+    border-radius: 10px;
+    /* background-color: rgb(43, 226, 147); */
+}
+.event-heading {
+    padding: 1rem;
+}
+#venue {
+    padding: 0.5rem;
+    border-top: 2px solid rgb(210, 180, 11);
+    border-bottom: 2px solid rgb(210, 180, 11);
+}
+
+#address-details {
+    padding: 1rem;
+}
+#event-date {
+    padding: 0.5rem;
+    border-top: 2px solid rgb(210, 180, 11);
+}
