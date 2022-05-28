@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/invitation-card/static/css/main.d40aec75.css",
-    "main.js": "/invitation-card/static/js/main.93f1e14d.js",
+    "main.css": "/invitation-card/static/css/main.b988427a.css",
+    "main.js": "/invitation-card/static/js/main.c9461a1c.js",
     "static/js/787.4a92c332.chunk.js": "/invitation-card/static/js/787.4a92c332.chunk.js",
     "static/media/IMG_20220525_224806477_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220525_224806477_HDR_DOC.221cbea8c25e0bf5526d.jpg",
     "static/media/IMG_20220525_224924181_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220525_224924181_HDR_DOC.f41e04328838cac25265.jpg",
@@ -11,15 +11,15 @@
     "static/media/IMG_20220525_230546684_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220525_230546684_HDR_DOC.2d21af538138a1688554.jpg",
     "static/media/IMG_20220525_223912812_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220525_223912812_HDR_DOC.48b66ecc7fe23e7927e9.jpg",
     "static/media/IMG_20220520_221502351_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220520_221502351_HDR_DOC.7a80b834ffbd737cfb98.jpg",
-    "static/media/Watercolor03.jpg": "/invitation-card/static/media/Watercolor03.0c4eeeabf5b868533ada.jpg",
+    "static/media/background-autumn.jpg": "/invitation-card/static/media/background-autumn.bdaa82c4009d55ef81af.jpg",
     "static/media/IMG-20210708-WA0053.jpg": "/invitation-card/static/media/IMG-20210708-WA0053.4fb6782ab5362e74d696.jpg",
     "index.html": "/invitation-card/index.html",
-    "main.d40aec75.css.map": "/invitation-card/static/css/main.d40aec75.css.map",
-    "main.93f1e14d.js.map": "/invitation-card/static/js/main.93f1e14d.js.map",
+    "main.b988427a.css.map": "/invitation-card/static/css/main.b988427a.css.map",
+    "main.c9461a1c.js.map": "/invitation-card/static/js/main.c9461a1c.js.map",
     "787.4a92c332.chunk.js.map": "/invitation-card/static/js/787.4a92c332.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d40aec75.css",
-    "static/js/main.93f1e14d.js"
+    "static/css/main.b988427a.css",
+    "static/js/main.c9461a1c.js"
   ]
 }
