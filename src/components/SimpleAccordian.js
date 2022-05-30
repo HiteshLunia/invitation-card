@@ -6,9 +6,20 @@ import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import FamilyImage from "./images/IMG-20210708-WA0053.jpg";
 import FirstImage from "./images/IMG_20220525_223912812_HDR_DOC.jpg";
+import FirstImage1 from "./images/IMG_20220530_232254.jpg";
 import WeddingImage from "./images/IMG_20220525_224924181_HDR_DOC.jpg";
 import ReceptionImage from "./images/IMG_20220525_224806477_HDR_DOC.jpg";
 import HiteshImage from "./images/IMG_20220520_225730316_DOC.jpg"
+import HiteshImage2 from "./images/IMG_20220530_230434.jpg"
+import HiteshImage3 from "./images/IMG_20220530_230600.jpg"
+import PrateekImage from "./images/IMG_20220530_231628.jpg"
+import PrateekImage2 from "./images/IMG_20220530_231023.jpg"
+import PrateekImage3 from "./images/IMG_20220530_231726.jpg"
+import VacationImage from "./images/IMG_20211227_221907.jpg"
+import VacationImage2 from "./images/IMG_20220227_200922.jpg"
+import VacationImage3 from "./images/IMG_20220528_230306.jpg"
+import RecentImage from "./images/IMG-20210708-WA0065.jpg"
+import RecentImage2 from "./images/IMG_20211104_211333.jpg"
 import "./SimpleAccordian.css";
 import ImageGallery from "./imageGallery";
 
@@ -28,6 +39,11 @@ export default function SimpleAccordion() {
             <h1>First picture together</h1>
             <div class="container">
               <div>
+                <img
+                  class="main-img1"
+                  src={FirstImage1}
+                  alt="FirstImage"
+                ></img>
                 <img
                   class="main-img1"
                   src={FirstImage}
@@ -59,7 +75,7 @@ export default function SimpleAccordion() {
                 <img
                   class="main-img1"
                   src={ReceptionImage}
-                  alt="FamilyImage"
+                  alt="ReceptionImage"
                 ></img>
               </div>
             </div>
@@ -96,18 +112,18 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src={HiteshImage}
+                  src={HiteshImage3}
                   alt="HiteshImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src={FamilyImage}
-                  alt="FamilyImage"
+                  src={HiteshImage2}
+                  alt="HiteshImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src="\images\IMG-20210708-WA0063.jpg"
-                  alt="FamilyImage"
+                  src={HiteshImage}
+                  alt="HiteshImage"
                 ></img>
               </div>
             </div>
@@ -129,51 +145,18 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220520_225730316_DOC.jpg"
-                  alt="FamilyImage"
+                  src={PrateekImage}
+                  alt="PrateekImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src={FamilyImage}
-                  alt="FamilyImage"
+                  src={PrateekImage2}
+                  alt="PrateekImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src="\images\IMG-20210708-WA0063.jpg"
-                  alt="FamilyImage"
-                ></img>
-              </div>
-            </div>
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel3a-content"
-          id="panel3a-header"
-        >
-          <Typography>Family Vacations</Typography>
-        </AccordionSummary>
-        <AccordionDetails>
-          <Typography>
-            <h1>Kashmir Trip</h1>
-            <div class="container">
-              <div>
-                <img
-                  class="main-img1"
-                  src="\images\IMG_20220520_225730316_DOC.jpg"
-                  alt="FamilyImage"
-                ></img>
-                <img
-                  class="main-img1"
-                  src={FamilyImage}
-                  alt="FamilyImage"
-                ></img>
-                <img
-                  class="main-img1"
-                  src="\images\IMG-20210708-WA0063.jpg"
-                  alt="FamilyImage"
+                  src={PrateekImage3}
+                  alt="PrateekImage"
                 ></img>
               </div>
             </div>
@@ -186,26 +169,36 @@ export default function SimpleAccordion() {
           aria-controls="panel3a-content"
           id="panel3a-header"
         >
-          <Typography>Recent Pictures</Typography>
+          <Typography>Family Pictures</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            <h1>Family Memories</h1>
+            <h1>Recent Pictures</h1>
             <div class="container">
               <div>
                 <img
                   class="main-img1"
-                  src="\images\IMG_20220520_225730316_DOC.jpg"
+                  src={VacationImage}
                   alt="FamilyImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src={FamilyImage}
+                  src={VacationImage2}
                   alt="FamilyImage"
                 ></img>
                 <img
                   class="main-img1"
-                  src="\images\IMG-20210708-WA0063.jpg"
+                  src={VacationImage3}
+                  alt="FamilyImage"
+                ></img>
+                <img
+                  class="main-img1"
+                  src={RecentImage}
+                  alt="FamilyImage"
+                ></img>
+                <img
+                  class="main-img1"
+                  src={RecentImage2}
                   alt="FamilyImage"
                 ></img>
               </div>

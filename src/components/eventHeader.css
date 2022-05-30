@@ -1,4 +1,5 @@
 .event-box {
+    font-weight: 900;
     font-family: 'Roboto';
     padding: 2rem;
     align-items: center;
@@ -16,14 +17,14 @@
 }
 #venue {
     padding: 0.5rem;
-    border-top: 2px solid rgb(210, 180, 11);
-    border-bottom: 2px solid rgb(210, 180, 11);
+    border-top: 3px solid rgb(210, 180, 11);
+    border-bottom: 3px solid rgb(210, 180, 11);
 }
 
 #address-details {
     padding: 1rem;
 }
 #event-date {
-    padding: 0.5rem;
-    border-top: 2px solid rgb(210, 180, 11);
+    padding: 0.8rem;
+    border-top: 3px solid rgb(210, 180, 11);
 }

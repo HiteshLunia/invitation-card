@@ -90,3 +90,10 @@
   flex-direction: column;
 }
 
+.location-heading {
+  font-size: xx-large; 
+  font-weight: 600;
+  font-family: 'Great Vibes', cursive;
+  color: rgb(0, 0, 0);
+}
+

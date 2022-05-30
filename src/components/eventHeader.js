@@ -17,7 +17,7 @@ class EventHeader extends Component {
           </div>
           <div id="address-details">
             <h4 id="address-title">Address : </h4>
-            <span> 263 Rabindra Sarani</span>
+            <span>263, Rabindra Sarani</span>
             <br />
             <span> G Centre Mall </span>
             <br />
