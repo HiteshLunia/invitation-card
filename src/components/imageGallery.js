@@ -13,7 +13,7 @@ class ImageGallery extends Component {
           <img class="main-img1" src={Image1} alt='FamilyImage'></img>
           <img class="main-img1" src={Image2} alt='FamilyImage'></img>
           <img class="main-img1" src={Image3} alt='FamilyImage'></img>
-          <img class="main-img1" src={Image4} alt='FamilyImage'></img>
+          {/* <img class="main-img1" src={Image4} alt='FamilyImage'></img> */}
         </div>
       </div>
     );
