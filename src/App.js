@@ -3,7 +3,6 @@ import EventHeader from "./components/eventHeader";
 import FooterComp from "./components/footerComp";
 import SimpleAccordion from "./components/SimpleAccordian";
 import LocationComp from "./components/locationComp";
-import Divider from "./components/images/divider.png";
 
 function App() {
   return (
