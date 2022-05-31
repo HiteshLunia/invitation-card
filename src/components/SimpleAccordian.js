@@ -16,9 +16,9 @@ import PrateekImage from "./images/IMG_20220530_231628.jpg"
 import PrateekImage2 from "./images/IMG_20220530_231023.jpg"
 import PrateekImage3 from "./images/IMG_20220530_231726.jpg"
 import VacationImage from "./images/IMG_20211227_221907.jpg"
-import VacationImage2 from "./images/IMG_20220227_200922.jpg"
+import VacationImage2 from "./images/IMG_20220530_232328.jpg"
 import VacationImage3 from "./images/IMG_20220528_230306.jpg"
-import RecentImage from "./images/IMG-20210708-WA0065.jpg"
+import RecentImage from "./images/IMG_20220530_231902.jpg"
 import RecentImage2 from "./images/IMG_20211104_211333.jpg"
 import "./SimpleAccordian.css";
 import ImageGallery from "./imageGallery";
@@ -178,7 +178,7 @@ export default function SimpleAccordion() {
               <div>
                 <img
                   class="main-img1"
-                  src={VacationImage}
+                  src={RecentImage}
                   alt="FamilyImage"
                 ></img>
                 <img
@@ -193,7 +193,7 @@ export default function SimpleAccordion() {
                 ></img>
                 <img
                   class="main-img1"
-                  src={RecentImage}
+                  src={VacationImage}
                   alt="FamilyImage"
                 ></img>
                 <img
