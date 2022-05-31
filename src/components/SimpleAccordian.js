@@ -148,11 +148,11 @@ export default function SimpleAccordion() {
                   src={PrateekImage}
                   alt="PrateekImage"
                 ></img>
-                <img
+                {/* <img
                   class="main-img1"
                   src={PrateekImage2}
                   alt="PrateekImage"
-                ></img>
+                ></img> */}
                 <img
                   class="main-img1"
                   src={PrateekImage3}

@@ -7,6 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #DFF7D7;
   background-image: url(./images/background-autumn.jpg);
+  background-attachment: fixed;
   /* background: linear-gradient(#C0C0C0, #9198e5); */
   background-repeat: no-repeat;
   background-size: cover;
