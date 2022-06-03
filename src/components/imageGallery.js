@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Image1 from './images/IMG_20220520_221252077_HDR_DOC.jpg';
-import Image2 from './images/IMG_20220520_221502351_HDR_DOC.jpg';
-import Image3 from './images/IMG_20220525_230546684_HDR_DOC.jpg';
+import Image1 from './images/IMG_20220520_221252077_HDR_DOC-min.jpg';
+import Image2 from './images/IMG_20220520_221502351_HDR_DOC-min.jpg';
+import Image3 from './images/IMG_20220525_230546684_HDR_DOC-min.jpg';
 
 class ImageGallery extends Component {
   state = {}
