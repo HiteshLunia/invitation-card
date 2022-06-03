@@ -4,16 +4,14 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import FamilyImage from "./images/IMG-20210708-WA0053.jpg";
 import FirstImage from "./images/IMG_20220525_223912812_HDR_DOC.jpg";
 import FirstImage1 from "./images/IMG_20220530_232254.jpg";
-import WeddingImage from "./images/IMG_20220525_224924181_HDR_DOC.jpg";
+import WeddingImage from "./images/IMG_20220525_224924181_HDR_DOC - Copy.jpg";
 import ReceptionImage from "./images/IMG_20220525_224806477_HDR_DOC.jpg";
 import HiteshImage from "./images/IMG_20220520_225730316_DOC.jpg"
 import HiteshImage2 from "./images/IMG_20220530_230434.jpg"
 import HiteshImage3 from "./images/IMG_20220530_230600.jpg"
 import PrateekImage from "./images/IMG_20220530_231628.jpg"
-import PrateekImage2 from "./images/IMG_20220530_231023.jpg"
 import PrateekImage3 from "./images/IMG_20220530_231726.jpg"
 import VacationImage from "./images/IMG_20211227_221907.jpg"
 import VacationImage2 from "./images/IMG_20220530_232328.jpg"
@@ -173,7 +171,7 @@ export default function SimpleAccordion() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            <h1>Recent Pictures</h1>
+            <h1>Memories</h1>
             <div class="container">
               <div>
                 <img
