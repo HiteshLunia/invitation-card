@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/invitation-card/static/css/main.7c53ad25.css",
-    "main.js": "/invitation-card/static/js/main.bef8567a.js",
+    "main.js": "/invitation-card/static/js/main.4923e2d3.js",
     "static/js/787.4a92c332.chunk.js": "/invitation-card/static/js/787.4a92c332.chunk.js",
-    "static/media/IMG_20211227_221907.jpg": "/invitation-card/static/media/IMG_20211227_221907.773c7994ba3c3c638afd.jpg",
-    "static/media/IMG_20211104_211333.jpg": "/invitation-card/static/media/IMG_20211104_211333.9215d61812020c407862.jpg",
-    "static/media/IMG_20220520_221252077_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220520_221252077_HDR_DOC.f88d18e8fdae0300c9e6.jpg",
-    "static/media/IMG_20220520_225730316_DOC.jpg": "/invitation-card/static/media/IMG_20220520_225730316_DOC.c1c1a154e2f11151bd6b.jpg",
-    "static/media/IMG_20220525_230546684_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220525_230546684_HDR_DOC.2d21af538138a1688554.jpg",
-    "static/media/IMG_20220520_221502351_HDR_DOC.jpg": "/invitation-card/static/media/IMG_20220520_221502351_HDR_DOC.7a80b834ffbd737cfb98.jpg",
+    "static/media/IMG_20211104_211333-min.jpg": "/invitation-card/static/media/IMG_20211104_211333-min.c610784fc58f2dec0328.jpg",
+    "static/media/IMG_20211227_221907-min.jpg": "/invitation-card/static/media/IMG_20211227_221907-min.8fb5ef235680cd2a46c7.jpg",
     "static/media/IMG_20220525_224806477_HDR_DOC-min.jpg": "/invitation-card/static/media/IMG_20220525_224806477_HDR_DOC-min.7cd8abab1ea454a756b1.jpg",
     "static/media/background-autumn.jpg": "/invitation-card/static/media/background-autumn.bdaa82c4009d55ef81af.jpg",
+    "static/media/IMG_20220520_225730316_DOC-min.jpg": "/invitation-card/static/media/IMG_20220520_225730316_DOC-min.10d6813b419e3323adce.jpg",
+    "static/media/IMG_20220520_221252077_HDR_DOC-min.jpg": "/invitation-card/static/media/IMG_20220520_221252077_HDR_DOC-min.4f0dbd745d9a3d8e9d72.jpg",
+    "static/media/IMG_20220525_230546684_HDR_DOC-min.jpg": "/invitation-card/static/media/IMG_20220525_230546684_HDR_DOC-min.febfa936da911190b815.jpg",
     "static/media/IMG_20220525_223912812_HDR_DOC-min.jpg": "/invitation-card/static/media/IMG_20220525_223912812_HDR_DOC-min.ce0fd8e7287031901a4e.jpg",
+    "static/media/IMG_20220520_221502351_HDR_DOC-min.jpg": "/invitation-card/static/media/IMG_20220520_221502351_HDR_DOC-min.da73175dc15f5e5af466.jpg",
     "static/media/IMG_20220525_224924181_HDR_DOC - Copy.jpg": "/invitation-card/static/media/IMG_20220525_224924181_HDR_DOC - Copy.2e4a4c4a8ac8d2ae70cf.jpg",
     "static/media/IMG_20220530_231902.jpg": "/invitation-card/static/media/IMG_20220530_231902.ca09b301eabfdd2091f3.jpg",
     "static/media/IMG_20220530_232254.jpg": "/invitation-card/static/media/IMG_20220530_232254.ea4f103a8f857b90382c.jpg",
@@ -23,11 +23,11 @@
     "static/media/IMG_20220530_231726.jpg": "/invitation-card/static/media/IMG_20220530_231726.397c4f21010f198ae272.jpg",
     "index.html": "/invitation-card/index.html",
     "main.7c53ad25.css.map": "/invitation-card/static/css/main.7c53ad25.css.map",
-    "main.bef8567a.js.map": "/invitation-card/static/js/main.bef8567a.js.map",
+    "main.4923e2d3.js.map": "/invitation-card/static/js/main.4923e2d3.js.map",
     "787.4a92c332.chunk.js.map": "/invitation-card/static/js/787.4a92c332.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c53ad25.css",
-    "static/js/main.bef8567a.js"
+    "static/js/main.4923e2d3.js"
   ]
 }
