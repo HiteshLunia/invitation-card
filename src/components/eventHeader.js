@@ -19,11 +19,11 @@ class EventHeader extends Component {
             <h4 id="address-title">Address : </h4>
             <span>263, Rabindra Sarani, 5th Floor </span>
             <br />
-            <span> G Centre Mall</span>
+            <span> G Centre Mall, Ganesh Takies</span>
             <br/>
-            <span> Ganesh Takies</span>
-            <br/>
-            <span> Near Rabindra Bharti University</span>
+            {/* <span> Ganesh Takies</span>
+            <br/> */}
+            <span> Opposite Rabindra Bharti University</span>
           </div>
         </div>
       </div>
