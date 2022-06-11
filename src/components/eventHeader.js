@@ -6,7 +6,7 @@ class EventHeader extends Component {
     return (
       <div class="container event-box">
         <div class="address event-details">
-          <h1 className="event-heading"> Silver Jubliee Celebration</h1>
+          <h1 className="event-heading"> Silver Jubilee Celebration</h1>
           <div id="event-date">
             <h5> Date: 18th June, Saturday</h5>
           </div>

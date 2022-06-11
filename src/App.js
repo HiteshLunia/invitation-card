@@ -26,7 +26,7 @@ function App() {
       <SimpleAccordion />
       <br/>
       <div id="container name-tag-heading">
-        <p class="text1">Lunia family invites you to join us in celebrating 25 years their of love and
+        <p class="text1">Lunia family invites you to join us in celebrating 25 years of <br/>their love and
           togetherness</p>
       </div>
       <EventHeader />
